@@ -36,12 +36,12 @@ function App() {
 
   return (
     <div
-      className="min-h-screen text-white p-4 bg-cover bg-center bg-fixed"
+      className="min-h-screen text-white p-3 sm:p-4 bg-cover bg-center bg-fixed"
       style={{
         backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(${backgroundImage})`,
       }}
     >
-      <div className="max-w-4xl mx-auto">
+      <div className="max-w-5xl mx-auto">
         <Header />
 
         {gameWon && (

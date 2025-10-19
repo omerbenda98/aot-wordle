@@ -9,7 +9,7 @@ export const CHARACTERS = [
     firstAppearance: "Season 1",
     status: "Deceased",
     age: 19,
-    image: "eren-yeager.jpg",
+    image: "eren-yaeger.jpg",
   },
   {
     name: "Mikasa Ackerman",
@@ -73,7 +73,7 @@ export const CHARACTERS = [
   },
   {
     name: "Hange Zoe",
-    gender: "Non-binary",
+    gender: "Female",
     affiliation: "Survey Corps",
     titanShifter: "No",
     firstAppearance: "Season 1",
